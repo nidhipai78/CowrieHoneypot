@@ -132,6 +132,23 @@ cat ~/cowrie/var/log/cowrie/cowrie.log | grep "New connection"
 ```
 These commands help analyze attack patterns and log details effectively.
 
+# Output
+
+Enter the virtual environment in the Cowrie directory
+![Screenshot from 2025-04-06 12-15-32](https://github.com/user-attachments/assets/30166898-f3c9-4644-a885-5f1a93679768)
+
+Simulate an attacker session and enter the fake session to execute the commands
+![Screenshot from 2025-04-06 12-16-05](https://github.com/user-attachments/assets/76f0c552-3c8a-45ea-8585-31ee16f7e674)
+
+Restart Cowrie
+![Screenshot from 2025-04-06 12-15-04](https://github.com/user-attachments/assets/1914d034-064d-43a2-92a6-3c0ce29dba01)
+
+Check Logs and Password
+![Screenshot from 2025-04-06 12-17-02](https://github.com/user-attachments/assets/8b2925f7-bafd-42f0-bd1e-6f7120507465)
+
+
+
+
 
 ## 📧 Contact
 For any queries or contributions, feel free to create an issue or reach out!
